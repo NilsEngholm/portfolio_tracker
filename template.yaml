@@ -12,4 +12,4 @@ portfolio:
     quantity: 5
     datePurchased: 2021-03-24
 
-secretKey: <your key here>
+#secretKey: <your key here>
