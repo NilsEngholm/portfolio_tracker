@@ -1,0 +1,15 @@
+portfolio:
+  AAPL:
+    quantity: 10
+    datePurchased: 2021-01-01
+  AMZN:
+    quantity: 33
+    datePurchased: 2023-01-01
+  MSFT:
+    quantity: 123
+    datePurchased: 2021-01-03
+  GOOGL:
+    quantity: 5
+    datePurchased: 2021-03-24
+
+secretKey: <your key here>
